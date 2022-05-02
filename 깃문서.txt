@@ -1,0 +1,13 @@
+깃문서
+cmd에 
+C:\Users\jjhsu>git config --global user.name kimjongha99
+깃 아이디 
+C:\Users\jjhsu>git config --global user.email jjhsun99@gmail.com
+깃 메일 입력
+
+내컴퓨터 작업공간 
+C:\Users\jjhsu>cd C:\Education
+
+
+깃주소 입력 C:\Education>git clone https://github.com/kimjongha99/Git-Tutorial.git
+fatal: destination path 'Git-Tutorial' already exists and is not an empty directory.
