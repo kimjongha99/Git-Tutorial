@@ -11,3 +11,13 @@ C:\Users\jjhsu>cd C:\Education
 
 깃주소 입력 C:\Education>git clone https://github.com/kimjongha99/Git-Tutorial.git
 fatal: destination path 'Git-Tutorial' already exists and is not an empty directory.
+
+
+깃문서 추가 
+C:\Education\Git-Tutorial>git add 깃문서.txt
+
+깃에 제목?같은느낌
+C:\Education\Git-Tutorial>git commit -m "깃 사용법 cmd 간단하게[깃문서.txt]"
+
+푸쉬하면 깃에 저장
+C:\Education\Git-Tutorial>git push
